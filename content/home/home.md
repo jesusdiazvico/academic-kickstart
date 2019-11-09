@@ -13,8 +13,8 @@ subtitle = ""
   columns = "1"
 +++
 
-Welcome Cryptoblogy!
+Welcome to Cryptoblogy!
 
 I write here about topics on cryptography that I consider relevant in some
-sense. This may include concepts I come across with, personal projects,
-publications, and probably more.
+sense. This may include concepts I come across with, personal projects and
+news, publications, and probably more.
