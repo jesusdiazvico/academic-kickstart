@@ -72,7 +72,7 @@ email: "jesus.diaz.vico@gmail.com"
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 I am a postdoctoral researcher in IBM Research Zurich GmbH, focused on applied
 cryptography. Previously, I held several other positions, ranging from industry
