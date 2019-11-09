@@ -58,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jesusdiazvico
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://es.linkedin.com/in/jesusdiazvico/en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
